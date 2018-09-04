@@ -1,0 +1,12 @@
+C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp\bin\Debug\netstandard2.0\DemoApp.deps.json
+C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp\bin\Debug\netstandard2.0\DemoApp.dll
+C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp\bin\Debug\netstandard2.0\DemoApp.pdb
+C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.csprojAssemblyReference.cache
+C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.AssemblyInfoInputs.cache
+C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.AssemblyInfo.cs
+C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.dll
+C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.pdb
