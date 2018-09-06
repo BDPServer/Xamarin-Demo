@@ -414,11 +414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kusum\\source\\repos\\DemoApp\\DemoApp\\DemoApp\\DemoApp.csproj",
+      "projectUniqueName": "I:\\git\\Xamarin-Demo\\DemoApp\\DemoApp\\DemoApp.csproj",
       "projectName": "DemoApp",
-      "projectPath": "C:\\Users\\kusum\\source\\repos\\DemoApp\\DemoApp\\DemoApp\\DemoApp.csproj",
+      "projectPath": "I:\\git\\Xamarin-Demo\\DemoApp\\DemoApp\\DemoApp.csproj",
       "packagesPath": "C:\\Users\\kusum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kusum\\source\\repos\\DemoApp\\DemoApp\\DemoApp\\obj\\",
+      "outputPath": "I:\\git\\Xamarin-Demo\\DemoApp\\DemoApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

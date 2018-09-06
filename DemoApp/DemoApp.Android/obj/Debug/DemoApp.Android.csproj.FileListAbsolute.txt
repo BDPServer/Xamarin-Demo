@@ -105,8 +105,3 @@ C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp.Android\obj\Debug\res\drawab
 C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp.Android\obj\Debug\res\drawable\grapes.jpg
 C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp.Android\obj\Debug\res\drawable\orange.jpg
 C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp.Android\obj\Debug\android\assets\SwipeCards.Controls.pdb
-C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp.Android\bin\Debug\DemoApp.Android.dll
-C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp.Android\obj\Debug\linksrc\DemoApp.pdb
-C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp.Android\obj\Debug\linksrc\DemoApp.Android.dll.mdb
-C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
-C:\Users\kusum\source\repos\DemoApp\DemoApp\DemoApp.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

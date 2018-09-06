@@ -1,0 +1,12 @@
+I:\git\Xamarin-Demo\DemoApp\DemoApp\bin\Release\netstandard2.0\DemoApp.deps.json
+I:\git\Xamarin-Demo\DemoApp\DemoApp\bin\Release\netstandard2.0\DemoApp.dll
+I:\git\Xamarin-Demo\DemoApp\DemoApp\bin\Release\netstandard2.0\DemoApp.pdb
+I:\git\Xamarin-Demo\DemoApp\DemoApp\obj\Release\netstandard2.0\DemoApp.csprojAssemblyReference.cache
+I:\git\Xamarin-Demo\DemoApp\DemoApp\obj\Release\netstandard2.0\App.xaml.g.cs
+I:\git\Xamarin-Demo\DemoApp\DemoApp\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+I:\git\Xamarin-Demo\DemoApp\DemoApp\obj\Release\netstandard2.0\DemoApp.csproj.CoreCompileInputs.cache
+I:\git\Xamarin-Demo\DemoApp\DemoApp\obj\Release\netstandard2.0\DemoApp.AssemblyInfoInputs.cache
+I:\git\Xamarin-Demo\DemoApp\DemoApp\obj\Release\netstandard2.0\DemoApp.AssemblyInfo.cs
+I:\git\Xamarin-Demo\DemoApp\DemoApp\obj\Release\netstandard2.0\XamlC.stamp
+I:\git\Xamarin-Demo\DemoApp\DemoApp\obj\Release\netstandard2.0\DemoApp.dll
+I:\git\Xamarin-Demo\DemoApp\DemoApp\obj\Release\netstandard2.0\DemoApp.pdb

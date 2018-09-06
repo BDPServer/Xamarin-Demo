@@ -5318,11 +5318,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kusum\\source\\repos\\DemoApp\\DemoApp\\DemoApp.iOS\\DemoApp.iOS.csproj",
+      "projectUniqueName": "I:\\git\\Xamarin-Demo\\DemoApp\\DemoApp.iOS\\DemoApp.iOS.csproj",
       "projectName": "DemoApp.iOS",
-      "projectPath": "C:\\Users\\kusum\\source\\repos\\DemoApp\\DemoApp\\DemoApp.iOS\\DemoApp.iOS.csproj",
+      "projectPath": "I:\\git\\Xamarin-Demo\\DemoApp\\DemoApp.iOS\\DemoApp.iOS.csproj",
       "packagesPath": "C:\\Users\\kusum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kusum\\source\\repos\\DemoApp\\DemoApp\\DemoApp.iOS\\obj\\",
+      "outputPath": "I:\\git\\Xamarin-Demo\\DemoApp\\DemoApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -5339,8 +5339,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\kusum\\source\\repos\\DemoApp\\DemoApp\\DemoApp\\DemoApp.csproj": {
-              "projectPath": "C:\\Users\\kusum\\source\\repos\\DemoApp\\DemoApp\\DemoApp\\DemoApp.csproj"
+            "I:\\git\\Xamarin-Demo\\DemoApp\\DemoApp\\DemoApp.csproj": {
+              "projectPath": "I:\\git\\Xamarin-Demo\\DemoApp\\DemoApp\\DemoApp.csproj"
             }
           }
         }
